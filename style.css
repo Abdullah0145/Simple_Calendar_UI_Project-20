@@ -1,0 +1,163 @@
+div.Parent-div {
+    display: flex;
+
+}
+
+
+div {  
+    flex-grow: 1;
+    font-size: 35px;
+}
+
+
+section { 
+    flex-grow: 0.5;
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    color: rgb(88, 87, 87);
+}
+
+
+div.Weeks {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    color: gray;
+    padding: 1%;
+}
+
+div.Days-1 span.Without-color{
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    color: gray;
+    padding: 1.5%;
+}
+
+
+/* 
+div.Days-1 span.color {
+    color: black;
+} */
+
+div.Days-2 {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    padding: 1.5%;
+}
+
+div.Days-3 {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    padding: 1.5%;
+}
+
+div.Days-4 {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    padding: 1.5%;
+}
+
+div.Days-5 {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    color: gray;
+    padding: 1.5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.parent{
+    border: 1px solid black;
+    width: 50%;
+    height: 70vh;  
+}
+
+
+div#box{ 
+    height: 15vh;
+    display: flex;
+    width:100%;
+}
+
+
+span#year{   
+    flex-grow: 1;
+    display: flex;
+    align-self: center;
+    padding: 3%;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+
+section{
+    flex-grow: 0.5;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+
+div#box section span{
+    font-size: 25px;    
+}
+
+
+.parent span.days{
+    color: rgb(166, 163, 163);
+}
+
+section#DAY-1 {
+    flex-grow: 0.5;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+
+
